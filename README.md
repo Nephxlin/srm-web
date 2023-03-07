@@ -1,3 +1,8 @@
+## Login
+
+Just type anything on the login fileds for enter on the dashboard app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
